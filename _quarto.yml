@@ -1,8 +1,10 @@
 project:
   type: book
+  
+lang: pt-BR
 
 book:
-  title: "Dados minerários SIGMINE"
+  title: "Análise de Dados Minerários (ANM)"
   author: "Agência Nacional de Mineração (ANM)"
   date: "29/10/2025"
   chapters:
@@ -10,6 +12,9 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
+  navbar:
+    search: true
+    logo: simbolo.png
 
 bibliography: references.bib
 
