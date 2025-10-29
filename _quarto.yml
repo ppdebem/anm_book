@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "anm_book"
-  author: "Norah Jones"
+  title: "Dados minerários SIGMINE"
+  author: "Agência Nacional de Mineração (ANM)"
   date: "29/10/2025"
   chapters:
     - index.qmd
